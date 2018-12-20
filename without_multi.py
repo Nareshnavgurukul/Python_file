@@ -1,4 +1,4 @@
-# =======multiply one number with another without usig */x multiply operater
+# =======multiply one number with another without not usig */x multiply operater
 user=input("type a number")
 var=input("type second number")
 x=0
